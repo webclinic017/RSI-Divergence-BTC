@@ -4,15 +4,16 @@ RSI divergence detector finds regular and hidden bullish and bearish divergences
 
 The trades are stored in a json file in the following format:
 
-'''json
-  'start_dtm': Start Time of the divergence,
+```json
+{  'start_dtm': Start Time of the divergence,
   'end_dtm': End Time of the divergence,
   'rsi_start': RSI at the beginning of the divergence,
   'rsi_end': RSI at the end of the divergence,
   'price_start': Price at the beginning of the divergence,
   'price_end': Price at the end of the divergence,
   'type': 'bullish/bearish (hidden or not)'
-'''
+  }
+```
 
 Detected signals of RSI divergences for BTCUSDT pair during 22.11.2020 - 22.07.2022 period in daily timeframe are visualized:
 
