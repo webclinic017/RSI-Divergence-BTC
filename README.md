@@ -23,7 +23,7 @@ Detected signals of RSI divergences for BTCUSDT pair during 22.11.2020 - 22.07.2
 
 Based on the different kinds of signals, the profit for each of them are found as (from 1000$):
 
-Hidden Bearish: 91075$ <br />
-Bearish: -30391$ <br />
-Hidden Bullish: 0 (No such type were detected in the timeframe) <br />
-Bullish: 9679$ <br />
+**Hidden Bearish:** 91075$ <br />
+**Bearish:** -30391$ <br />
+**Hidden Bullish:** 0 (No such type were detected in the timeframe) <br />
+**Bullish:** 9679$ <br />
